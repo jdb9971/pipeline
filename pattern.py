@@ -1,4 +1,4 @@
-rows = 6
+rows = 10
 
 for num in range(rows):
 
